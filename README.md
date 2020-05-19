@@ -12,6 +12,8 @@
 <br>
 
 <p align="center">
+  
+  <img alt="BeTheHero" src="https://github.com/luisERH/React.JS-GitHub-API/blob/master/home.PNG" width="100%">
   <img alt="BeTheHero" src="https://github.com/luisERH/React.JS-GitHub-API/blob/master/issues.PNG" width="100%">
 </p>
 
