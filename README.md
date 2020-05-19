@@ -1,7 +1,4 @@
-
-<h1 align="center">React.JS</h1>
-
-<h2 align="center">GitHub-API</h2>
+<h2 align="center">GitHub API <strong>React.JS</strong></h2>
 
 
 <p align="center">
