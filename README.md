@@ -37,23 +37,13 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 #### Clonando o projeto
 ```sh
-git clone https://github.com/luisERH/BeTheHero.git
-cd BeTheHero
-npm / yarn install
+git https://github.com/luisERH/React.JS-GitHub-API
+cd React.JS-GitHub-API
+npm install/ yarn
 ```
-#### Iniciando Backend
+#### Iniciando Aplicação
 ```sh
-cd backend
-npm / yarn start
-```
-#### Iniciando Frontend
-```sh
-cd frontend
-npm / yarn start
-```
-#### Iniciando mobile
-```sh
-cd mobile
+cd React.JS-GitHub-API
 npm / yarn start
 ```
 
