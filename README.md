@@ -1,7 +1,7 @@
-<p align="center">
-<h1>React.JS</h1>
-</h2>GitHub-API</h2>
-</p>
+
+<h1 align="center">React.JS</h1>
+</h2 align="center">GitHub-API</h2>
+
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
