@@ -1,4 +1,5 @@
-# React.JS-GitHub-API
+# React.JS
+## GitHub-API
 
 
 <p align="center">
