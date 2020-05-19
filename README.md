@@ -1,6 +1,6 @@
 <p align="center">
-# React.JS
-## GitHub-API
+<h1>React.JS</h1>
+</h2>GitHub-API</h2>
 </p>
 
 <p align="center">
