@@ -1,6 +1,7 @@
+<p align="center">
 # React.JS
 ## GitHub-API
-
+</p>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
