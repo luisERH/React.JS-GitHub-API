@@ -2,13 +2,6 @@
 
 
 <p align="center">
- <img src="https://github.com/luisERH/React.JS-GitHub-API/blob/master/home.PNG" alt="PRs welcome!" />
- <img src="https://github.com/luisERH/React.JS-GitHub-API/blob/master/issues.PNG" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-</p>
-
-<p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,7 +12,8 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src="https://github.com/Rocketseat/semana-omnistack-11/blob/d737a096820c1b67332558597b0fdda7a3f4f612/.github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="https://github.com/luisERH/React.JS-GitHub-API/blob/master/home.PNG" width="100%">
+  <img alt="BeTheHero" src="https://github.com/luisERH/React.JS-GitHub-API/blob/master/issues.PNG" width="100%">
 </p>
 
 ## :rocket: Tecnologias
